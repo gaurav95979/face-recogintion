@@ -1,2 +1,2 @@
-# face-recogintion
-it is a face recognition module
+# FaceRecog
+It a face recognition module.
